@@ -1,2 +1,3 @@
 # Hello-World
-just an another repository! Boring? No, but insteresting for a newman!
+Hi humans!
+IceBreakers! a lengend story will start here! haha...
